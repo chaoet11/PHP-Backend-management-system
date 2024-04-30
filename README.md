@@ -6,15 +6,17 @@ This Repo is a course practice topic. (iSpan front-end engineer development clas
 
 The course topic is Taipei Date, which focuses on matching and making friends, supplemented by social software and itinerary planning.
 
+The function I am mainly responsible for is Blind Date.
+
 Use XAMPP,PHP,MySQL technology to complete the establishment of the backend management system.
+
+## 🔍 Function
 
 There are login and non-login functions.
 
 When not logged in, you cannot do any editing, you can only view.
 
 When you are logged in, you can do editing operations.
-
-The function I am mainly responsible for is Blind Date.
 
 - Create (There will be field checking when adding)
 - Read (Keyword search, drop-down menu search, date filtering and sorting functions)
@@ -70,3 +72,5 @@ This is purely for practice and not for any profit-making purpose.Thanks!
 ## ⛔️ Notice
 
 For security reasons, remove security-related content, such as the location of Google OAuth Client ID and Client Secret.
+
+Therefore, some content may not be available for normal use.
