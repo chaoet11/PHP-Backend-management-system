@@ -1,0 +1,9 @@
+# See https://help.github.com/articles/ignoring-files/ for more about ignoring files.
+
+# dependencies
+/community/google_client_secret.json
+/community/google_taipei-datee.json
+/google/AuthConfig.json
+/_register.php
+/_login.php
+
